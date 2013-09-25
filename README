@@ -1,0 +1,37 @@
+Code Contributors:
+
+AMG: Alan Gordon, Stanford University
+JBH: J. Benjamin Hutchinson, Princeton University, formerly Stanford University
+JR: Jesse Rissman, UCLA, formerly Stanford University
+
+Here we have made available summarized behavioral and neural data from [Gordon, Rissman, Kiani and Wagner, Cerebral Cortex 2014], as well as scripts used in the analysis of these data. Scripts are provided so that readers can see how the data from this study were analyzed; they have not been edited for ease of general use.  
+
+The Matlab scripts require the following dependencies:
+1) spm5 (http://www.fil.ion.ucl.ac.uk/spm)
+2) liblinear toolbox (http://www.csie.ntu.edu.tw/~cjlin/liblinear)
+3) the princeton mvpa toolbox (http://www.pni.princeton.edu/mvpa)
+
+The R scripts require the package lme4 (http://cran.r-project.org/web/packages/lme4/)
+
+
+License:
+
+Copyright (c) 2013 Alan Gordon, J. Benjamin Hutchinson, Jesse Rissman.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
